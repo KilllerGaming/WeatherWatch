@@ -654,6 +654,9 @@ article.container::before {
   width: 100%;
   text-align: right;
 }
+.forecast-card .card .card-lg{
+  margin-bottom: 10px;
+} 
 
 
 
