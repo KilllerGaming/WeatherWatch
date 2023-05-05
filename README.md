@@ -34,6 +34,8 @@
 https://weather0watch.netlify.app
 
 
+
+
 ## Support
 
-For support, email gamerkiller01325@gmail.com or connect with me on my socials.
+If you have any feedback or need help, please reach out to me at gamerkiller01325@gmail.com or connect with me on my socials
