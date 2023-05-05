@@ -1,5 +1,5 @@
-
-<img align="center" src="https://i.ibb.co/WvZ2310/logo.png"/>
+<p align="center">
+<img src="https://i.ibb.co/WvZ2310/logo.png"/>
 
 
 <center>
@@ -7,6 +7,7 @@
 </center>
 
 <p align="center">**Weather Watch** provide users with accurate and up-to-date weather information for their current location and other locations they are interested in.</p>
+</p>
 
 
 ## Features
