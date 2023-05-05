@@ -10,7 +10,8 @@
 </p>
 
 <details open="open">
-## Features
+
+<h2>Features</h2>
 
 - Hourly forecast: The website will display the weather conditions for the next 12 hours, with updates every hour.
 - 5-day forecast: Users can also view the weather conditions for the next five days, with details on each day's forecasted temperature range, wind speed, and precipitation.
@@ -19,6 +20,7 @@
 - Air quality: Users can view the air quality index for their location, which indicates the level of air pollution and the health effects associated with it.
 - Humidity: The website will display the current humidity level, as well as the humidity range expected during the day.
 - Pressure: Users can see the current atmospheric pressure in their location, as well as the maximum pressure expected during the day.
+
 </details>
 
 ## Tools Used
