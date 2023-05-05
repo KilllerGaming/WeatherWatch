@@ -5,6 +5,7 @@
  * @author KillerGaming <gamerkiller01325@gmail.com>
  */
 
+
  'use-strict';
 
  const api_key = "c7a29a43505508bde617941333cc8ef2";
