@@ -11,7 +11,7 @@
 
 <details open="open">
 
-<h2 style="display: inline-block">Features</h2>
+<summary><h2 style="display: inline-block">Features</h2></summary>
 
 - Hourly forecast: The website will display the weather conditions for the next 12 hours, with updates every hour.
 - 5-day forecast: Users can also view the weather conditions for the next five days, with details on each day's forecasted temperature range, wind speed, and precipitation.
