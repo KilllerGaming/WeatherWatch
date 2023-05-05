@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/KilllerGaming/WeatherWatch/main/assets/images/logo.png?token=GHSAT0AAAAAACBL6VFPKJ7M2QLBSSXJU7V6ZCVLN6A)
+![Logo](https://ibb.co/r2YwtJ3)
 
 
 <div style="text-align:center">
