@@ -1,61 +1,36 @@
 
-# Project Title
+![Logo](https://raw.githubusercontent.com/KilllerGaming/WeatherWatch/main/assets/images/logo.png?token=GHSAT0AAAAAACBL6VFPKJ7M2QLBSSXJU7V6ZCVLN6A)
 
-A brief description of what this project does and who it's for
 
-## Tech Stack
+<div style="text-align:center">
+# Weather Watch
+</div>
 
-**Client:** HTML, CSS, JavaScript, API
+**Weather Watch** provide users with accurate and up-to-date weather information for their current location and other locations they are interested in.
 
-## Demo
-
-Insert gif or link to demo
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
-```
+- Hourly forecast: The website will display the weather conditions for the next 12 hours, with updates every hour.
+- 5-day forecast: Users can also view the weather conditions for the next five days, with details on each day's forecasted temperature range, wind speed, and precipitation.
+- Wind speed: Users can see the current wind speed in their location, as well as the maximum wind speed expected during the day.
+- Sunrise and sunset time: The website will display the exact time of sunrise and sunset for the user's location.
+- Air quality: Users can view the air quality index for their location, which indicates the level of air pollution and the health effects associated with it.
+- Humidity: The website will display the current humidity level, as well as the humidity range expected during the day.
+- Pressure: Users can see the current atmospheric pressure in their location, as well as the maximum pressure expected during the day.
 
 
-## Authors
+## Tools Used
 
-- [@KilllerGaming](https://www.github.com/KilllerGaming)
+**Front End:** HTML, CSS
 
-## License
+**Back End:** JavaScript, OpenWeatherAPI
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## Demo
+
+https://weather0watch.netlify.app
+
 
 ## Support
 
-For support, [Buy me a coffee](https://www.buymeacoffee.com/killer0gaming).
+For support, email gamerkiller01325@gmail.com or connect with me on my socials.
