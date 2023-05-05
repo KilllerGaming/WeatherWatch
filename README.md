@@ -2,9 +2,9 @@
 ![Logo](https://i.ibb.co/WvZ2310/logo.png)
 
 
-<div style="text-align:center">
+<center>
 <h1> Weather Watch </h1>
-</div>
+</center>
 
 **Weather Watch** provide users with accurate and up-to-date weather information for their current location and other locations they are interested in.
 
