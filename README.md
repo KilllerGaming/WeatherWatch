@@ -3,7 +3,7 @@
 
 
 <center>
-<h1> Weather Watch </h1>
+<h1 align="center"> Weather Watch </h1>
 </center>
 
 **Weather Watch** provide users with accurate and up-to-date weather information for their current location and other locations they are interested in.
