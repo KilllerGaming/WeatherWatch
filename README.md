@@ -1,9 +1,9 @@
 
-![Logo](https://ibb.co/r2YwtJ3)
+![Logo](https://i.ibb.co/WvZ2310/logo.png)
 
 
 <div style="text-align:center">
-# Weather Watch
+<h1> Weather Watch </h1>
 </div>
 
 **Weather Watch** provide users with accurate and up-to-date weather information for their current location and other locations they are interested in.
