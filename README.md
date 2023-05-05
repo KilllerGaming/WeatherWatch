@@ -20,6 +20,8 @@
 
 </details>
 
+<br>
+
 ## Tools Used
 
 **Front End:** HTML, CSS
