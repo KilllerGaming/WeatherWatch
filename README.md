@@ -27,18 +27,18 @@
 **Front End:** HTML, CSS
 
 **Back End:** JavaScript, [OpenWeatherAPI](https://openweathermap.org/)
-
+<br>
 ## Demo
 
 https://weather0watch.netlify.app
 
 
-
+<br>
 
 ## Feedback
 
 If you have any feedback or need help, please reach out to me at gamerkiller01325@gmail.com or connect with me on my socials
-
+<br>
 
 ## Support
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/killer0gaming)
