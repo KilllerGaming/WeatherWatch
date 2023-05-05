@@ -27,7 +27,9 @@
 **Front End:** HTML, CSS
 
 **Back End:** JavaScript, [OpenWeatherAPI](https://openweathermap.org/)
+
 <br>
+
 ## Demo
 
 https://weather0watch.netlify.app
