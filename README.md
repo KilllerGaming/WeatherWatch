@@ -30,7 +30,7 @@
 
 <br>
 
-## Demo
+## Link
 
 https://weather0watch.netlify.app
 
